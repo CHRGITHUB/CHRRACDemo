@@ -1,0 +1,18 @@
+PODS:
+  - Masonry (1.0.1)
+  - ReactiveCocoa (4.2.1):
+    - Result (~> 2.0)
+  - Result (2.1.2)
+
+DEPENDENCIES:
+  - Masonry
+  - ReactiveCocoa
+
+SPEC CHECKSUMS:
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  ReactiveCocoa: 5a42745f11ea236f405bb9ce5e97c5e3b23562dd
+  Result: 6e722d4a66b1408680dbfcdf51c0b1c4b706316a
+
+PODFILE CHECKSUM: 6ca1742a508cf7e03d3e66da199151abc059b504
+
+COCOAPODS: 1.0.1
